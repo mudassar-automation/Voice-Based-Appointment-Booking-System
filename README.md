@@ -158,7 +158,6 @@ This system is perfect for:
 
 If your business relies on scheduled meetings, this **voice-first booking assistant** saves time, reduces friction, and creates a premium customer experience.  
 
-➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Voice-Based-Appointment-Booking-System/blob/main/Voice-Based%20Appointment%20Booking%20System%20with%20ElevenLabs%20AI%20and%20Cal.com.json)
 ---
 
 ## 🏁 Summary  
@@ -166,3 +165,5 @@ If your business relies on scheduled meetings, this **voice-first booking assist
 This **Voice-Based Appointment Booking System** combines **ElevenLabs AI** and **Cal.com** to create a natural, conversational scheduling experience.  
 
 By merging **voice synthesis**, **real-time availability checking**, and **automated booking**, it delivers an intuitive and fully hands-free scheduling process — no forms, no friction, just **AI-powered simplicity**.  
+
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Voice-Based-Appointment-Booking-System/blob/main/Voice-Based%20Appointment%20Booking%20System%20with%20ElevenLabs%20AI%20and%20Cal.com.json)
